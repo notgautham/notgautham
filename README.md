@@ -78,35 +78,78 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr>
 
 <!-- Skills Section -->
 
-<h2 align="center">My Tech Arsenal</h2>
-<p align="center">
-<strong>Languages & Scripting</strong><br>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,sql&theme=dark" />
-<br><br>
-<strong>AI, ML & Data Science</strong><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,opencv,transformers&theme=dark" />
-<br><br>
-<strong>Frontend & Backend</strong><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,express,django&theme=dark" />
-<br><br>
-<strong>Databases & Networking</strong><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,suricata,wireshark&theme=dark" />
-<br><br>
-<strong>DevOps, Cloud & Tools</strong><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,terraform,git,githubactions,postman,vercel,linux&theme=dark" />
+<p align="left">
+  <img src="smallfire.gif" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 28px; font-weight: bold; vertical-align: bottom; margin-left: 10px;">My Tech Arsenal</span>
 </p>
 
-<hr>
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-F9A03C?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+
+
 
 <!-- GitHub Stats & Activity Section -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=notgautham&theme=rust-ferris-dark&hide_border=false" alt="notgautham's GitHub Streak">
@@ -115,7 +158,7 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notgautham&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -123,19 +166,24 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <!-- Featured Projects Table -->
 
-<h2 align="center">📂 Featured Projects</h2>
+<p align="left">
+  <img src="smallfire.gif" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 28px; font-weight: bold; vertical-align: bottom; margin-left: 10px;">My Featured Projects</span>
+</p>
 
 <div align="center">
 
 | # | Project | Description | Library |
 |--|---------|-------------|---------|
-| 1 | [FactFlow](https://github.com/notgautham/FactFlow) | A browser extension for multi-layered fake news detection using AI & content verification. | ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) |
-| 2 | [Rofix](https://github.com/notgautham/Rofix) | Road damage detection system using YOLOv8 and geospatial mapping for maintenance insights. | ![YOLO](https://img.shields.io/badge/YOLOv8-black?style=flat-square&logo=github) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) |
-| 3 | [CateCLI4](https://github.com/notgautham/CateCLI4) | Command-line file categorizer with priority-based sampling and preview logging. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
-| 4 | [LegalLint](https://github.com/notgautham/LegalLint) | AI-based legal document analyzer with flagging of clauses using OpenAI integration. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| 5 | [FinTrack](https://github.com/notgautham/FinTrack) | Personal finance dashboard with budget tracking and analytics. | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) |
+| 1 | [CateCLI4](https://github.com/notgautham/CateCLI4) | Command-line file categorizer with priority-based sampling and preview logging. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
+| 2 | [FinTrack](https://github.com/notgautham/FinTrack) | Personal finance dashboard with budget tracking and analytics. | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) |
+| 3 | [FactFlow](https://github.com/notgautham/FactFlow) | A browser extension for multi-layered fake news detection using AI & content verification. | ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) |
+| 4 | [Voluntree](https://github.com/notgautham/Voluntree) | A platform to connect NGOs and volunteers for social impact and event management. | ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) |
+| 5 | [LegalLint](https://github.com/notgautham/LegalLint) | AI-based legal document analyzer with flagging of clauses using OpenAI integration. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| 6 | [Rofix](https://github.com/notgautham/Rofix) | Road damage detection system using YOLOv8 and geospatial mapping for maintenance insights. | ![YOLO](https://img.shields.io/badge/YOLOv8-black?style=flat-square&logo=github) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) |
 
 </div>
+
 
 
 
