@@ -1,0 +1,15 @@
+https://github.com/anuraghazra/github-readme-stats
+
+https://wakatime.com/dashboard
+
+https://github.com/tandpfun/skill-icons#readme
+
+https://gh-stats-gen.vercel.app/
+
+https://readme-typing-svg.herokuapp.com/demo/?weight=700&size=70&duration=3000&pause=500&color=F88135&center=true&vCenter=true&width=1920&height=100&lines=Hi!+My+name+is+Gautham;A+Developer+focused+on+AI+%26+Data;Always+learning+and+building;Welcome+to+my+digital+space...
+
+https://github.com/DenverCoder1/github-readme-streak-stats/tree/main
+
+https://github.com/DenverCoder1?tab=repositories
+
+https://github.com/Ashutosh00710/github-readme-activity-graph/tree/main
