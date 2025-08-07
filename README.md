@@ -104,17 +104,22 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <!-- GitHub Stats & Activity Section -->
 
-<h2 align="center">My GitHub Activity</h2>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=notgautham&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=79ff97&title_color=f85d7f&text_color=bd93f9" alt="notgautham's GitHub Stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgautham&layout=compact&theme=dracula&hide_border=true&langs_count=8&title_color=f85d7f&text_color=bd93f9" alt="notgautham's Top Languages">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notgautham&theme=dracula&hide_border=true" alt="notgautham's GitHub Streak">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=notgautham&theme=rust-ferris-dark&hide_border=false" alt="notgautham's GitHub Streak">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgautham&layout=compact&theme=codeSTACKr&hide_border=false&border_color=fff&bg_color=000&langs_count=8&title_color=F86635FF&text_color=F88135FF" alt="notgautham's Top Languages">
 </p>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notgautham&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <!-- Featured Projects Table -->
 
@@ -134,15 +139,10 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <hr>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <!-- Socials Section -->
 
-<h2 align="center">Connect With Me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/gautham-venkatesan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
-<!-- Footer -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=notgautham&label=Profile%20Views&color=f85d7f&style=flat-square" alt="Profile views" />
-</p>
