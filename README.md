@@ -114,7 +114,7 @@ I'm a developer with a passion for building intelligent systems and secure appli
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notgautham&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notgautham&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -127,17 +127,18 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <div align="center">
 
-| # | Project                                              | Language                                                                                                                                                                            | Library                                                                                                                                                                                                                                                                    |
-| - | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | [FactFlow](https://github.com/notgautham/FactFlow)   | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square\&logo=javascript) ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) | ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square\&logo=fastapi) ![React](https://img.shields.io/badge/React-black?style=flat-square\&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square\&logo=tailwindcss) |
-| 2 | [Rofix](https://github.com/notgautham/Rofix)         | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square\&logo=typescript)                                                                                     | ![YOLO](https://img.shields.io/badge/YOLOv8-black?style=flat-square\&logo=github) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square\&logo=fastapi)                                                                                                   |
-| 3 | [CateCLI4](https://github.com/notgautham/CateCLI4)   | ![Java](https://img.shields.io/badge/Java-black?style=flat-square\&logo=java)                                                                                                       | -                                                                                                                                                                                                                                                                          |
-| 4 | [LegalLint](https://github.com/notgautham/LegalLint) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square\&logo=javascript) ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=next.js)                                                                                                                                                                                     |
-| 5 | [FinTrack](https://github.com/notgautham/FinTrack)   | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python)                                                                                                 | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square\&logo=flask)                                                                                                                                                                                           |
+| # | Project | Description | Library |
+|--|---------|-------------|---------|
+| 1 | [FactFlow](https://github.com/notgautham/FactFlow) | A browser extension for multi-layered fake news detection using AI & content verification. | ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) |
+| 2 | [Rofix](https://github.com/notgautham/Rofix) | Road damage detection system using YOLOv8 and geospatial mapping for maintenance insights. | ![YOLO](https://img.shields.io/badge/YOLOv8-black?style=flat-square&logo=github) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) |
+| 3 | [CateCLI4](https://github.com/notgautham/CateCLI4) | Command-line file categorizer with priority-based sampling and preview logging. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
+| 4 | [LegalLint](https://github.com/notgautham/LegalLint) | AI-based legal document analyzer with flagging of clauses using OpenAI integration. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| 5 | [FinTrack](https://github.com/notgautham/FinTrack) | Personal finance dashboard with budget tracking and analytics. | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) |
 
 </div>
 
-<hr>
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
