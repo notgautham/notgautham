@@ -166,10 +166,13 @@ I'm a developer with a passion for building intelligent systems and secure appli
 
 <!-- Featured Projects Table -->
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center;">
   <img src="smallfire.gif" width="40" style="vertical-align: middle;"/>
-  <span style="font-size: 28px; font-weight: bold; vertical-align: bottom; margin-left: 10px;">My Featured Projects</span>
+  <span style="font-size: 40px; font-weight: bold; margin-left: 10px; vertical-align: middle;">
+    My Featured Projects
+  </span>
 </p>
+
 
 <div align="center">
 
